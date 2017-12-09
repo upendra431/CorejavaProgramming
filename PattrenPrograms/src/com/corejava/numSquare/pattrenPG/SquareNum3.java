@@ -1,4 +1,4 @@
-package com.corejava.pattrenPG;
+package com.corejava.numSquare.pattrenPG;
 
 public class SquareNum3 {
 	public static void main(String[] args) {
