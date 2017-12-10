@@ -1,5 +1,5 @@
 package com.corejava.starTri.pattrenPG;
-public class TriStart1 {
+public class TriStar1 {
 	public static void main(String[] args) {
 		int n = 5;
 		for (int i = 1; i <= n; i++) {
